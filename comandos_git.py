@@ -1,4 +1,4 @@
-<!-- y se cierra con Subir proyecto a github
+print("""y se cierra con Subir proyecto a github
 
 git init: para iniciar proyectos en git
 git branck -m (nombre de la rama) main
@@ -11,8 +11,7 @@ git commit -m "para subir el proyecto"
 
 git push --set-upstream origin main
 
-con esto ya estaria el proyecto en el repositorio
--->
+con esto ya estaria el proyecto en el repositorio""")
 
 
 
